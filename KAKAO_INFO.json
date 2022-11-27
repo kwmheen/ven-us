@@ -1,0 +1,35 @@
+{
+"birthday":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group[3]/div/div[2]/div/ul/*/gl-link/a/span/strong",
+            "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group[3]/div/div[2]/div/ul/*/gl-link/a/span/span[3]/span[2]",
+             "url":"https://gift.kakao.com/page/11107"},
+ 
+"samll_gift":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/strong",
+              "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/span[3]/span[2]",
+              "url":"https://gift.kakao.com/page/code/life_small_gift"},
+
+"health":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/strong",
+          "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/span[3]/span[2]",
+          "url":"https://gift.kakao.com/page/code/life_health"},
+ 
+"small_luxury":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/strong",
+                "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/span[3]/span[2]",
+                "url":"https://gift.kakao.com/page/code/life_small_luxury"},
+ 
+"luxury":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/strong",
+          "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/span[3]/span[2]",
+          "url":"https://gift.kakao.com/page/code/life_luxury_gift"},
+ 
+"baby":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group[3]/div/div[2]/div/ul/*/gl-link/a/span/strong",
+        "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group[3]/div/div[2]/div/ul/*/gl-link/a/span/span[3]/span[2]",
+        "url":"https://gift.kakao.com/page/code/life_pregnancy"},
+ 
+"touched":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div[2]/div/ul/*/gl-link/a/span/strong",
+           "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div[2]/div/ul/*/gl-link/a/span/span[3]/span[2]",
+           "url":"https://gift.kakao.com/page/14047"},
+ 
+"funny":{"name":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/strong",
+         "price":"//*[@id='mArticle']/app-pw-home/gl-promotion/div/gl-product-group/div/div/div/ul/*/gl-link/a/span/span[3]/span[2]",
+          "url":"https://gift.kakao.com/page/code/life_funny"}
+}
+    
+    
